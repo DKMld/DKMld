@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DKMld
-- 👀 I’m interested in...
+- 👀 I’m interested in learning new stuff :)
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : email: miti_01@abv.bg
 
 <!---
 DKMld/DKMld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
