@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @DKMld
 - 👀 I’m interested in learning new stuff :)
-- 🌱 I’m currently learning Python
-- 📫 How to reach me : email: miti_01@abv.bg
+- 🌱 I’m currently learning Python in SoftUni
+- 📫 How to reach me : 
+-                     email: miti_01@abv.bg
+-                     linkedin: linkedin.com/in/dimitar-mladenov-2a84a7261
 
 <!---
 DKMld/DKMld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
