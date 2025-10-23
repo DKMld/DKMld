@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @DKMld
-- 👀 I’m interested in learning new stuff :)
-- 🌱 I’m currently working on my Python projects.
 - 📫 How to reach me : 
--                     email: miti_01@abv.bg
+-                     email: dkmladenow@gmail.com
 -                     linkedin: linkedin.com/in/dimitar-mladenov-2a84a7261
 -                     personal website : mladenovdev.com
 
